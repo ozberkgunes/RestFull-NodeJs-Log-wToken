@@ -6,7 +6,7 @@ App is master folder name.
 
 Log is my logging save file.
 
-I used middleware to creat token key.
+I used middleware to create token key.
 
 I used Mysql as database.
 
